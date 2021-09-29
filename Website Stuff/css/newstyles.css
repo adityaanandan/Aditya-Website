@@ -1,0 +1,167 @@
+nav ul{
+    margin: 0; 
+    list-style: none; 
+    padding-left: 200px; 
+}
+
+nav li{
+    display: inline-block;  
+    margin-left: 70px;
+    margin-bottom: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 38.5px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 100px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+    
+    }
+
+nav.btn {
+        font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 38.5px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 100px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;;
+    }
+
+
+.col-md-4 p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 38.5px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+}
+
+.col-md-4 h1{
+    font-family: Consolas, monaco, monospace; font-size: 85px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 80px; } h3 { font-family: Consolas, monaco, monospace; font-size: 65px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Consolas, monaco, monospace; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Consolas, monaco, monospace; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Consolas, monaco, monospace; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+}
+
+.img{
+    border-color: white;
+    border-radius: 100px; 
+    border-width: 5px;
+    border-style: solid; 
+}
+
+.img{
+    width: 500px; 
+}
+
+.col-md-4{
+    padding-top: 15em;
+}
+
+.col-md-6 img{
+    transform: rotate(12deg);
+    position: relative; 
+    left: 20px;  
+}
+
+.col-md-6 p{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 25px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+    position: relative;  
+}
+
+.col-md-6{
+    position: relative; 
+    left: 10px; 
+    top: 275px; 
+}
+
+.projects_pic{
+    margin-left: 30px;
+    display: block; 
+    width: 750px; 
+    
+}
+
+.pic{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 38.5px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+    }
+.podcast_pic{
+    display: block; 
+    width: 425px; 
+    padding-left: 30px;
+    position: relative; 
+    left: 200px; 
+   
+
+}
+
+.pod_text{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 38.5px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px;
+    }
+
+.books_pic{
+    display: block; 
+    width: 850px; 
+    
+}
+
+.music_pic{
+    margin-left: 30px;
+    display: block; 
+    width: 750px;
+    position: relative; 
+    top: -100px;
+
+}
+
+.btn-info, .btn-info:active, .btn-info:visited {
+    background-color:#50C878  !important;
+    border-color: #50C878 !important;
+}
+
+.text-info {
+    color: #50C878 !important; 
+}
+
+.embed-responsive-item{
+    width: 600px;
+    height: 338px;  
+    position: relative; 
+    left: 300px; 
+}
+
+.btn-secondary, .btn-secondary:active, .btn-secondary:visited {
+    background-color:#4452fbff  !important;
+    border-color: white !important;
+}
+
+.btn-dark, .btn-dark:active, .btn-dark:visited {
+    background-color:#c585f7  !important;
+    border-color: white !important;
+    
+}
+
+
+
+
+.carousel{
+    height: 32rem;
+    background: #777;
+}
+
+
+.logo_pics{
+    width: 100px; 
+    position: relative; 
+    left: 275px;
+
+}
+.kindle_pic{
+    width: 175px;
+    position: relative; 
+    left: 240px;
+}
+
+.card-text{
+    padding-top: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 23px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } h3 { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 23px; } p { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } blockquote { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 17px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px; } pre { font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 23px;
+}
+
+
+
+.snake{
+
+    display: block; 
+    width: 425px;
+    position: relative; 
+    top: 30px;   
+    left: 25px; 
+    
+
+}
+
+.book_stuff{
+    padding-left: 300px;
+}
